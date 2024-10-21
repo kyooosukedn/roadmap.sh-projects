@@ -1,0 +1,18 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "description": "Buy laptop and code",
+      "status": "in-progress",
+      "createdAt": "2024-08-12T14:00:00",
+      "updatedAt": "2024-08-22T21:36:38.376Z"
+    },
+    {
+      "id": 2,
+      "description": "Buy laptop",
+      "status": "todo",
+      "createdAt": "2024-08-22T21:35:34.677Z",
+      "updatedAt": "2024-08-22T21:35:34.678Z"
+    }
+  ]
+}
