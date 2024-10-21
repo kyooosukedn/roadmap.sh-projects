@@ -1,8 +1,6 @@
 # Task Tracker CLI
 
-The solution for the task-tracker challenge from [roadmap.sh](https://roadmap.sh).
-
-https://roadmap.sh/projects/task-tracker
+The solution for the task-tracker challenge from https://roadmap.sh/projects/task-tracker
 
 This is a simple Command Line Interface (CLI) application built with Node.js to manage tasks. You can add, update, delete, and track the status of your tasks using this CLI.
 
